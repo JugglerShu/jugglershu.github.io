@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Nothing but Programming]]></title>
-  <link href="http://jugglershu.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test | Nothing but Programming]]></title>
+  <link href="http://jugglershu.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://jugglershu.github.io/"/>
   <updated>2015-04-11T05:20:56+09:00</updated>
   <id>http://jugglershu.github.io/</id>
